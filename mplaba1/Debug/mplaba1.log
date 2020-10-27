@@ -1,3 +1,2 @@
 ﻿  mplaba1.cpp
-mplaba1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Point::Point(void)" (??0Point@@QAE@XZ) в функции "public: __thiscall Rectangle::Rectangle(bool)" (??0Rectangle@@QAE@_N@Z)
-D:\GitProject\C++\mplaba1\Debug\mplaba1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+  mplaba1.vcxproj -> D:\GitProject\C++\mplaba1\Debug\mplaba1.exe
